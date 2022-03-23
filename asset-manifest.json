@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.8c14d3e3.css",
+    "main.js": "/react1/static/js/main.d7cadcc4.js",
+    "static/media/laptop.jpg": "/react1/static/media/laptop.bb559d4893737426431b.jpg",
+    "static/media/m.png": "/react1/static/media/m.aa1be1a5cac7cc4deeba.png",
+    "static/media/money.jpg": "/react1/static/media/money.f5918b909c09228ccec8.jpg",
+    "static/media/airarabia.jpg": "/react1/static/media/airarabia.9183b9282878f5fe6cfc.jpg",
+    "static/media/airbus.jpg": "/react1/static/media/airbus.f3c756cc52de1ff7cbdc.jpg",
+    "index.html": "/react1/index.html",
+    "main.8c14d3e3.css.map": "/react1/static/css/main.8c14d3e3.css.map",
+    "main.d7cadcc4.js.map": "/react1/static/js/main.d7cadcc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c14d3e3.css",
+    "static/js/main.d7cadcc4.js"
+  ]
+}
